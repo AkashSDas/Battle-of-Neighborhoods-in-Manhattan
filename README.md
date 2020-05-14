@@ -230,7 +230,7 @@ pipenv shell
 
   
 
-- dataset, jupyter notebook and model are in `'Battle-of-Neighborhoods-in-Manhattan'/requirements.txt/src` folder.
+- dataset, jupyter notebook and model are in `'Battle-of-Neighborhoods-in-Manhattan'/venv/src` folder.
 
   
 
