@@ -108,7 +108,7 @@
 
 > `geopy` packages is used to get `coordinates` using the location that we got from the GET request.
 
-> Using the `folium` package to visualise the map of `Ney York City` and mainly `Manhattan`, also it is see the map of different clusters that we got from the `machine learning model`.
+> Using the `folium` package to visualise the map of `New York City` and mainly `Manhattan`, also it is see the map of different clusters that we got from the `machine learning model`.
 
 > `Sciki-learn` is used for data preprocessing, creating machine learning model and evaluating it, thus creating a pipeline.
 
